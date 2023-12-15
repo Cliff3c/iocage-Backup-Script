@@ -36,6 +36,7 @@ This repository contains a shell script designed to automate the backup process 
     - Follow the "JAIL BACKUP SNIPPET" provided in the script to back up your jails. Modify it as needed for each jail you intend to back up.
 
 3. Execute the script: `./backup_jails.sh`
+4. Optionally you can create a cron job to automate this task.
 
 ### Script Details
 
